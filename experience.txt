@@ -1,0 +1,4 @@
+First Day - 18Dec 2016
+We were very excited today to start with the citi project which was Project no -02,"Market Cap based Trade Recommendation System".So first we went through the links given by the citi people.
+Firstly,we tried to get all the stuffs in one go .We also thought of coding on the First day itself .Yeah,I know it was funny.Then we messaged our mentor,about what we should do today. So our both mentors advised us to draw the ER-Diagram and try to understand the flow of the project.They also told us to go through the Angularjs tutorials.So, we read the tutorials.And some people were thinking about the strategies for the bussiness logic.We also read and studies more about the basics of marrket cap and stock selection factors.
+And then finally sitting for 4 hrs,as it was Sunday evening,we all went to our respective rooms and decided to meet next thursday.
